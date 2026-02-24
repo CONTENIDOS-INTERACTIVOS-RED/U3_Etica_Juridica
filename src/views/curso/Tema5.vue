@@ -155,6 +155,9 @@
       
             .div(titulo="El defensor o apoderado")
               p Toda persona investigada tiene derecho a ser asistida por un abogado, sea de confianza o de oficio.
+
+            .div(titulo="El juez disciplinario")
+              p Es quien toma la decisión final sobre la responsabilidad y la eventual sanción
       
         .col-lg-4
           figure
